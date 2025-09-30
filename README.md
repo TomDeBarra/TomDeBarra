@@ -1,7 +1,6 @@
 ## 2nd Year Project: Age of Battle 
 <img width="541" height="337" alt="Снимок экрана 2025-02-01 184721" src="https://github.com/user-attachments/assets/db5e47cd-cf18-4a22-acb5-a669f715f228" />
 - Age of Battle is a side-scrolling strategy game made using C# and Unity
-- 3 Different Units, get enough units to enter enemy base to win
 <img width="1467" height="569" alt="Снимок экрана 2025-01-23 210903" src="https://github.com/user-attachments/assets/d41d6015-01df-4cd9-8d28-512a6677896f" />
 
 <!--
